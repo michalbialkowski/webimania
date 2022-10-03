@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../KDMC/ibles.ga/.idea/ibles.ga.iml" filepath="$PROJECT_DIR$/../../KDMC/ibles.ga/.idea/ibles.ga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/webimania.iml" filepath="$PROJECT_DIR$/.idea/webimania.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webimania.dev.bialkowski.net.pl/.idea/webimania.dev.bialkowski.net.pl.iml" filepath="$PROJECT_DIR$/../webimania.dev.bialkowski.net.pl/.idea/webimania.dev.bialkowski.net.pl.iml" />
+    </modules>
+  </component>
+</project>
